@@ -1,7 +1,8 @@
 # git-overview
 
+Brian Austin
+Cuan Fraser
+
 ```ruby
-
-students << "Parker"
-
+persons << "Parker Griep"
 ```
