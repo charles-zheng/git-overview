@@ -2,7 +2,7 @@
 # git-overview
 tina
 
-# git-overview 
+# git-overview
 Binh said: Hello
 
 
@@ -22,8 +22,10 @@ cuan fraser
 
 hello this is anshD
 
-# git-overviewD
 Josie Barbosa
+
+
+
 
 
 
@@ -40,12 +42,19 @@ This sentence is false.
 
 Charles Zheng
 
+
 Alexei Krokhmal
+
+
+
+
+
+
 
 
 Brian Austin
 Cuan Fraser
-<<<<<<< HEAD
+
 Parker Griep
 Bryce G.
 
@@ -54,8 +63,20 @@ Bryce G.
 persons << "Parker Griep"
 ``
 
+```javascript
+ > "n" == ([][[]]+[])[+!+[]]
+ > => true
+```
+
 Bryce G.:9
 Bryce G.:
+
+
+
+
+
+
+
 
 
 
