@@ -1,3 +1,6 @@
+<<<<<<< HEAD
+# git-overview
+tina
 
 # git-overview
 Binh said: Hello
@@ -25,8 +28,11 @@ This sentence is false.
 (2B || !2B)
 
 Charles Zheng
+<<<<<<< HEAD
 
 
+=======
+>>>>>>> 178317d358300403efe2444f2c066aed88265fa8
 Brian Austin
 Cuan Fraser
 
@@ -41,3 +47,8 @@ persons << "Parker Griep"
 
 Bryce G.:9
 Bryce G.:
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+
+>>>>>>> 178317d358300403efe2444f2c066aed88265fa8
