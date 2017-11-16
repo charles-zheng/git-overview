@@ -1,12 +1,10 @@
 
 
-GIT-OVERVIEW
-hello this is anshD
+#GIT-OVERVIEW
 
-# git-overviewD
 Josie Barbosa
 HELLO THERE :)
-# git-overview
+hello this is anshD
 Henry Burtis
 This sentence is false.
 (2B || !2B)
@@ -18,6 +16,11 @@ Cuan Fraser
 ```ruby
 persons << "Parker Griep"
 ``
+
+```javascript
+ > "n" == ([][[]]+[])[+!+[]]
+ > => true
+```
 
 Bryce G.:9
 Bryce G.:
