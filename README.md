@@ -1,7 +1,16 @@
 
+
 hello this is ansh
 
 #`git-overview
+
+
+GIT-OVERVIEW
+hello this is anshD
+
+# git-overviewD
+Josie Barbosa
+
 HELLO THERE :)
 # git-overview
 Henry Burtis
@@ -16,10 +25,16 @@ Cuan Fraser
 <<<<<<< HEAD
 Parker Griep
 Bryce G.
-=======
+
 
 ```ruby
 persons << "Parker Griep"
 ``
+
+Bryce G.:9
 Bryce G.:
+
+
+
+
 
