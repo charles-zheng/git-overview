@@ -1,4 +1,3 @@
-
 # git-overview 
 Binh said: Hello
 
@@ -29,9 +28,11 @@ Cuan Fraser
 "Parker Griep"
 Bryce G.
 Parker Griep"
-
 Brian Austin
 Cuan Fraser
+"Parker Griep"
+ > "n" == ([][[]]+[])[+!+[]]
+ > => true
 
 Bryce G.:9
 Bryce G.:
