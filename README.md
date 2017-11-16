@@ -1,4 +1,3 @@
-
 Vidhya Ravi Sankar
 # git-overview 
 Binh said: Hello
@@ -16,6 +15,8 @@ Charles Zheng
 Brian Austin
 Cuan Fraser
 persons << "Parker Griep"`
+Brian Austin
+Cuan Fraser
 Brian Austin
 Cuan Fraser
 Bryce G.:9
