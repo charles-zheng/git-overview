@@ -1,12 +1,19 @@
 
 
 GIT-OVERVIEW
+
 hello this is ansh
 
 
 cuan fraser
 
 
+
+hello this is anshD
+
+# git-overviewD
+Josie Barbosa
+>>>>>>> 3ebab40ed4f414a235a2660e0e614cbf63cc8912
 HELLO THERE :)
 
 
@@ -24,9 +31,15 @@ Cuan Fraser
 ```ruby
 persons << "Parker Griep"
 ``
+
+Bryce G.:9
 Bryce G.:
+<<<<<<< HEAD
 
 
 
 
 
+=======
+>>>>>>> 8a83e34329cc7be29e84d96b4979f211fb07d1e6
+>>>>>>> 3ebab40ed4f414a235a2660e0e614cbf63cc8912
