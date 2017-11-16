@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 Vidhya Ravi Sankar
 GIT-OVERVIEW
 hello this is ansh
