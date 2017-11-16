@@ -1,17 +1,46 @@
+<<<<<<< HEAD
+# git-overview
+tina
+
+# git-overview
+Binh said: Hello
 
 
 GIT-OVERVIEW
-hello this is ansh
-HELLO THERE :)
-# git-overview
-Charles Zheng
->>>>>>> 41f415a04310fdf36b5647110631a9f834fd9bfe
 
+hello this is ansh
+
+
+cuan fraser
+
+
+
+hello this is anshD
+
+# git-overviewD
+Josie Barbosa
+>>>>>>> 3ebab40ed4f414a235a2660e0e614cbf63cc8912
+HELLO THERE :)
+
+
+
+
+Henry Burtis
+This sentence is false.
+(2B || !2B)
+
+Charles Zheng
 Brian Austin
 Cuan Fraser
 
 ```ruby
 persons << "Parker Griep"
-``
+```
+
+```javascript
+ > "n" == ([][[]]+[])[+!+[]]
+ > => true
+```
+
+Bryce G.:9
 Bryce G.:
->>>>>>> 848ea72c71f37a5ace111b4c365ca64465214189
