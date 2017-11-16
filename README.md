@@ -1,4 +1,5 @@
-<<<<<<< HEAD
+When can we go home?
+
 # git-overview
 tina
 
